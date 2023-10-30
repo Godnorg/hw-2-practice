@@ -1,0 +1,40 @@
+
+.bigContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.first {
+  color: white;
+  background-color: red;
+  border: 5px solid black;
+  margin: 10px;
+}
+
+.second {
+  color: white;
+  background-color: blue;
+  border: 5px solid black;
+  margin: 10px;
+}
+
+.third {
+  color: white;
+  background-color: green;
+  border: 5px solid black;
+  margin: 10px;
+}
+
+.reset {
+  border: 5px solid black;
+  margin: 10px;
+}
+
+.display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: black;
+  border: 5px solid black;
+}
